@@ -1,25 +1,28 @@
 alert('Hello World!');
-{
-    var $money = 7855961;
-}
+
+    let $money = 100;
+
 console.log('$money: ', $money);
-{
-    var myIncome = 999999;
-}
+
+    let myIncome = 50;
+
 console.log('myIncome: ', myIncome);
-{
-    var myAddExpenses = 88888888;
-}
+
+    let myAddExpenses = 40;
+
 console.log('myAddExpenses: ', myAddExpenses);
-{
-    var myDeposit = 100000000;
-}
+
+    let myDeposit = 70;
+
 console.log('myDeposit: ', myDeposit);
-{
-    var myMission = 999999999999;
-}
+
+    const myMission = 60;
+
 console.log('myMission: ', myMission);
-{
-    var myPeriod = 365;
-}
+
+    const myPeriod = 365;
+
 console.log('myPeriod: ', myPeriod);
+
+
+console.log('Изучил git и github');
