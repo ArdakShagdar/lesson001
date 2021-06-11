@@ -1,26 +1,26 @@
 alert('Hello World!');
 
-    let $money = 100;
+let $money = 100;
 
 console.log('$money: ', $money);
 
-    let myIncome = 50;
+let Income = 50;
 
 console.log('myIncome: ', myIncome);
 
-    let myAddExpenses = 40;
+let AddExpenses = 40;
 
 console.log('myAddExpenses: ', myAddExpenses);
 
-    let myDeposit = 70;
+let Deposit = 70;
 
 console.log('myDeposit: ', myDeposit);
 
-    const myMission = 60;
+const Mission = 60;
 
 console.log('myMission: ', myMission);
 
-    const myPeriod = 365;
+const Period = 7;
 
 console.log('myPeriod: ', myPeriod);
 
