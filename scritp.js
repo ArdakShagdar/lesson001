@@ -1,28 +1,28 @@
 alert('Hello World!');
 
-let $money = 100;
+let money = 100;
 
-console.log('$money: ', $money);
+console.log('money: ', money);
 
 let Income = 50;
 
-console.log('myIncome: ', myIncome);
+console.log('Income: ', Income);
 
 let AddExpenses = 40;
 
-console.log('myAddExpenses: ', myAddExpenses);
+console.log('AddExpenses: ', AddExpenses);
 
 let Deposit = 70;
 
-console.log('myDeposit: ', myDeposit);
+console.log('Deposit: ', Deposit);
 
 const Mission = 60;
 
-console.log('myMission: ', myMission);
+console.log('Mission: ', Mission);
 
 const Period = 7;
 
-console.log('myPeriod: ', myPeriod);
+console.log('Period: ', Period);
 
 
 console.log('Изучил git и github');
